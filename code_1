@@ -1,5 +1,3 @@
-
-
 if(!campaignTrail_temp.loaded1){
 campaignTrail_temp.global_parameter_json = [
     {
